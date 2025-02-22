@@ -7,7 +7,7 @@
 
 # CONTACT
 
-**Mail : admin@c1a.tech**\n
-**Discord : c1a**\n
-**Telegram : c1a1337**\n
-**Discord server : https://discord.gg/ulq**
+**Mail : admin@c1a.tech**\
+**Discord : c1a**\
+**Telegram : c1a1337**\
+**Discord server : https://discord.gg/ulq**\
