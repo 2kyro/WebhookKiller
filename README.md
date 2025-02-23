@@ -1,4 +1,4 @@
-# WEBHOOK KILLER BY C1A1337
+# WEBHOOK KILLER BY C1AHQ
 
 ## Start 
 
@@ -8,6 +8,6 @@
 # CONTACT
 
 **Mail : admin@c1a.tech**\
-**Discord : c1a**\
-**Telegram : c1a1337**\
+**Discord : c1ahq**\
+**Telegram : c1ahq**\
 **Discord server : https://discord.gg/ulq**
