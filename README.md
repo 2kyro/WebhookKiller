@@ -1,4 +1,4 @@
-# WEBHOOK KILLER BY C1AHQ
+# WEBHOOK KILLER BY VA4C
 
 ## Start 
 
@@ -8,6 +8,6 @@
 # CONTACT
 
 **Mail : admin@c1a.tech**\
-**Discord : c1ahq**\
-**Telegram : c1ahq**\
+**Discord : va4c**\
+**Telegram : vva4c**\
 **Discord server : https://discord.gg/ulq**
