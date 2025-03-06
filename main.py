@@ -130,7 +130,7 @@ async def menu():
                                             |____|__ \__|____/____/\___  >__|   
                                                     \/                 \/       
             
-    {red}By va4c                  https://github.com/va4c/WebhookKiller            https://discord.gg/ulq
+    {red}By kYro                  https://github.com/2kyro/WebhookKiller            https://discord.gg/ulq
 
 
     {blue}1. Delete webhook       2. Spam webhook
