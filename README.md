@@ -1,4 +1,4 @@
-# WEBHOOK KILLER BY VA4C
+# WEBHOOK KILLER BY kYro
 
 ## Start 
 
@@ -8,6 +8,6 @@
 # CONTACT
 
 **Mail : admin@c1a.tech**\
-**Discord : va4c**\
-**Telegram : vva4c**\
+**Discord : 2kyro**\
+**Telegram : 2kyro**\
 **Discord server : https://discord.gg/ulq**
